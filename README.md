@@ -19,36 +19,265 @@ Building projects • Learning every day • Open to opportunities
 </p>
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 Profile Log
 
-- 🎓 Final-year Computer Science Engineering student
-- 📍 Based in **Delhi, India**
-- 📊 Aspiring Data Analyst passionate about solving problems with data
-- 💻 Working with SQL, Python, and Git
-- 📈 Exploring Power BI, Tableau, and Data Visualization
-- 🚀 Building real-world projects to grow as a Data Analyst
+```text
+────────────────────────────────────────────
+
+👤 Aditya Kumar
+
+💼 Aspiring Data Analyst
+
+📍 Delhi, India
+
+🛠 SQL • Python • Git
+
+📊 Learning Power BI & Tableau
+
+🚀 Building real-world analytics projects
+
+────────────────────────────────────────────
+```
+
+<!-- ====================================================== -->
+
+# 🧠 Knowledge Graph
+
+```text
+                             🧠 KNOWLEDGE CORE
+                                   │
+                ───────────────────┼───────────────────
+                                   │
+         ┌─────────────────────────┼─────────────────────────┐
+         │                         │                         │
+         ▼                         ▼                         ▼
+   💾 SQL Server              🐍 Python              📊 Analytics
+         │                         │                         │
+         │                         │              ┌──────────┴──────────┐
+         │                         │              │                     │
+         ▼                         ▼              ▼                     ▼
+ Database Design         Data Processing     📈 Power BI          📉 Tableau
+         │                         │                     │
+         │                         │                     │
+         └───────────────┬─────────┘                     ▼
+                         │                           📄 Excel
+                         │
+                         ▼
+                  ⚙ Development
+                         │
+            ┌────────────┼────────────┐
+            ▼            ▼            ▼
+          Git         GitHub       VS Code
+
+────────────────────────────────────────────────────────────────────────────
+
+🎯 Destination → Data Analyst
+```
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+<td width="50%" valign="top">
+
+<td width="50%" valign="top">
+
+## ⭐ Featured Skills
+
+<img src="https://img.shields.io/badge/STATUS-GROWING-success?style=flat-square"/>
+
+### Core Strengths
+
+- 💾 SQL Query Writing
+- 📊 Data Analysis
+- 🧹 Data Cleaning & Transformation
+- 📈 Dashboard Development
+- 🧠 Problem Solving
+
+**Tools**
+
+`SQL Server` `Python` `Power BI` `Tableau`
+
+</td>
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+# 🚀 Command Center
+
+```text
+🟢 Status                 ONLINE
+📊 Repository Analytics   ACTIVE
+🛠 Skill Matrix           LIVE
+📈 Contribution Timeline  TRACKING
+```
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats-zw88.vercel.app/api?username=adikr28&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4C430&text_color=E6D3A3&icon_color=D4AF37&rank_icon=github&custom_title=Repository%20Overview"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+# 🚀 Command Center
+
+```text
+🟢 Status                 ONLINE
+📊 Repository Analytics   ACTIVE
+🛠 Skill Matrix           LIVE
+```
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" align="center">
+
+<img
+width="100%"
+src="https://github-readme-stats-zw88.vercel.app/api?username=adikr28&show_icons=true&hide_border=true&bg_color=00000000&title_color=F4C430&text_color=E6D3A3&icon_color=D4AF37&rank_icon=github&custom_title=Repository%20Overview"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/🛠_Skill_Matrix-D4AF37?style=for-the-badge&labelColor=0D1117&color=D4AF37"/>
+
+<br><br>
+
+```text
+💾 SQL Server   🟨🟨🟨🟨🟨🟨🟨🟨🟨🟨
+
+🐍 Python       🟨🟨🟨🟨🟨🟨🟨🟨⬜⬜
+
+📊 Power BI     🟨🟨🟨🟨🟨🟨⬜⬜⬜⬜
+
+📈 Tableau      🟨🟨🟨🟨🟨⬜⬜⬜⬜⬜
+
+📗 Excel        🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜
+```
+
+</td>
+
+</tr>
+</table>
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+# 🚀 Project Terminal
+
+### [01] 📊 SQL Practice
+
+<img src="https://img.shields.io/badge/ACTIVE-D4AF37?style=flat-square&labelColor=0D1117"/>
+
+> Daily SQL practice for interviews & real-world database queries.
+
+**Stack**
+`SQL Server` `Git` `GitHub`
+
+🔗 **[View Repository →](https://github.com/adikr28/SQL-Practice)**
 
 ---
 
-## 🛠️ Tech Stack
+### [02] 📈 Data Analytics
 
-### 💻 Languages & Querying
+<img src="https://img.shields.io/badge/BUILDING-C69214?style=flat-square&labelColor=0D1117"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+> Netflix Analysis • Power BI • Tableau Dashboards
 
-### 📊 Data Visualization
+**Stack**
+`Python` `Pandas` `Power BI` `Tableau`
 
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
+---
 
-### ⚙️ Tools
+### [03] 🧠 Research
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+<img src="https://img.shields.io/badge/COMPLETED-B8860B?style=flat-square&labelColor=0D1117"/>
+
+> MRI Brain Tumor Localization using Lightweight Deep Learning.
+
+**Stack**
+`Python` `TensorFlow`
+
+<!-- ====================================================== -->
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+<!-- ====================================================== -->
+
+> CURRENTLY LEARNING...
+
+SQL Server  [██████████]
+
+Python      [████████░░]
+
+Power BI    [██████░░░░]
+
+Tableau     [█████░░░░░]
+
+Excel       [███████░░░]
+
+────────────────────────────
+
+> STATUS
+
+✔ Learning Daily
+✔ Building Projects
+✔ Solving SQL Problems
+✔ Improving Analytics Skills
+
+> Ready for next challenge...
+<!-- ====================================================== -->
+<!-- ====================================================== -->
+<!-- ====================================================== -->
+
+# 📊 Query Mindset
+
+```sql
+SELECT Insight,
+       Accuracy,
+       Curiosity,
+       Discipline
+FROM Data
+WHERE Every_Day = Learning;
+```
+
+<!-- ====================================================== --><!-- ====================================================== -->
+
+# 📜 Build Log
+
+```text
+2026.01  ✓ SQL Practice Repository
+
+2026.02  ✓ Research Paper
+
+2026.03  ⟳ Data Analytics Projects
+
+2026.04  ⟳ Power BI Dashboards
+
+2026.05  □ Tableau Dashboards
+
+2026.06  □ End-to-End Analytics Portfolio
+```
+
+<!-- ====================================================== -->
