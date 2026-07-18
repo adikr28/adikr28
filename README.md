@@ -218,12 +218,6 @@ src="https://github-readme-stats-zw88.vercel.app/api?username=adikr28&show_icons
 **Stack**
 `Python` `TensorFlow`
 
-<!-- ====================================================== -->
-<!-- ====================================================== -->
-
-<!-- ====================================================== -->
-
-<!-- ====================================================== -->
 
 > CURRENTLY LEARNING...
 
@@ -247,9 +241,6 @@ Excel       [███████░░░]
 ✔ Improving Analytics Skills
 
 > Ready for next challenge...
-<!-- ====================================================== -->
-<!-- ====================================================== -->
-<!-- ====================================================== -->
 
 # 📊 Query Mindset
 
@@ -262,7 +253,7 @@ FROM Data
 WHERE Every_Day = Learning;
 ```
 
-<!-- ====================================================== --><!-- ====================================================== -->
+
 
 # 📜 Build Log
 
@@ -279,5 +270,22 @@ WHERE Every_Day = Learning;
 
 2026.06  □ End-to-End Analytics Portfolio
 ```
+ # 👾 Commit Arcade
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/adikr28/adikr28/output/pacman-contribution-graph-dark.svg">
+
+  <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/adikr28/adikr28/output/pacman-contribution-graph.svg">
+
+  <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/adikr28/adikr28/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
 
 <!-- ====================================================== -->
