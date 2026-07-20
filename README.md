@@ -111,8 +111,18 @@ https://github.com/adikr28/SQL-Practice
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header"/>
 </p>
+# 📊 GitHub Stats
 
+<p align="center">
 
+<img height="170" src="https://streak-stats.demolab.com?user=adikr28&theme=github-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-zw88.vercel.app/api/top-langs/?username=adikr28&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header"/>
+</p>
 # 👾 Contribution Arcade
 
 <p align="center">
