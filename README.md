@@ -43,37 +43,66 @@ Building projects • Learning every day • Open to opportunities
 
 # 🚀 Project Terminal
 
-### [01] 📊 SQL Practice
+## [01] 🌐 Personal Portfolio
 
-<img src="https://img.shields.io/badge/ACTIVE-D4AF37?style=flat-square&labelColor=0D1117"/>
+`LIVE`
 
-> Daily SQL practice for interviews & real-world database queries.
+> Modern responsive portfolio showcasing my projects, technical skills and experience.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `GitHub Pages`
+
+🔗 **Live Website**
+
+https://adikr28.github.io
+
+🔗 **Repository**
+
+https://github.com/adikr28/adikr28.github.io
+
+---
+
+## [02] 📚 SQL Practice Repository
+
+`ACTIVE`
+
+> Daily SQL practice for interviews and real-world database challenges.
 
 **Stack**
 
 `SQL Server` `Git` `GitHub`
 
-🔗 **[View Repository →](https://github.com/adikr28/SQL-Practice)**
+🔗 **Repository**
+
+https://github.com/adikr28/SQL-Practice
 
 ---
 
-### [02] 📈 Data Analytics
+## [03] 📊 Data Analytics
 
-<img src="https://img.shields.io/badge/BUILDING-C69214?style=flat-square&labelColor=0D1117"/>
+`BUILDING`
 
-> Netflix Analysis • Power BI Dashboards • Tableau Projects
+> Building end-to-end analytics projects using SQL, Python, Pandas, Tableau and Power BI.
+
+**Upcoming Projects**
+
+- Netflix Data Analysis
+- HR Analytics Dashboard
+- Sales Dashboard
+- Customer Churn Analysis
 
 **Stack**
 
-`Python` `Pandas` `Power BI` `Tableau`
+`Python` `SQL` `Pandas` `Power BI` `Tableau`
 
 ---
 
-### [03] 🧠 Research
+## [04] 🧠 Research
 
-<img src="https://img.shields.io/badge/COMPLETED-B8860B?style=flat-square&labelColor=0D1117"/>
+`COMPLETED`
 
-> Real-Time Brain Tumor Localization using Lightweight Deep Learning.
+> Published research on lightweight deep learning models for real-time brain tumor localization in MRI.
 
 **Stack**
 
@@ -82,6 +111,7 @@ Building projects • Learning every day • Open to opportunities
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header"/>
 </p>
+
 
 # 👾 Contribution Arcade
 
